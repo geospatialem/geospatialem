@@ -1,12 +1,12 @@
 # <span role="img" aria-label="hand wave" title="hand wave">:wave:</span> Hello there, I'm Kitty <span role="img" aria-label="smiling cat" title="smiling cat">:smile_cat:</span> <span role="img" aria-label="woman technologist" title="woman technologist">:woman_technologist:
 
-I'm a **Senior Product Engineer** at **Esri** <span role="img" aria-label="globe" title="globe">:earth_americas:</span><code>&nbsp;</code>focused on the **[Calcite Design System](https://developers.arcgis.com/calcite-design-system)**.<code>&nbsp;</code><span role="img" aria-label="color palette" title="color palette">:art:</span><code>&nbsp;</code><span role="img" aria-label="sparkles" title="sparkles">:sparkles: 
+I'm a **Senior Product Engineer** at **Esri** <span role="img" aria-label="globe" title="globe">:earth_americas:</span> focused on the **[Calcite Design System](https://developers.arcgis.com/calcite-design-system)**. <span role="img" aria-label="color palette" title="color palette">:art:</span> <span role="img" aria-label="sparkles" title="sparkles">:sparkles: 
 
-I <span role="img" aria-label="heart" title="heart">:heart:</span><code>&nbsp;</code>implementing innovative solutions to benefit the geospatial, accessibility, and web development communities. I have a background in emergency management <span role="img" aria-label="rotating light" title="rotating light">:rotating_light:</span><code>&nbsp;</code>, hence the "em" in my username, **geospatialem**. <span role="img" aria-label="smile" title="smile">:slightly_smiling_face:</span>  
+I <span role="img" aria-label="heart" title="heart">:heart:</span> implementing innovative solutions to benefit the geospatial, accessibility, and web development communities. I have a background in emergency management <span role="img" aria-label="rotating light" title="rotating light">:rotating_light:</span>, hence the "em" in my username, **geospatialem**. <span role="img" aria-label="smile" title="smile">:slightly_smiling_face:</span>  
 ## Some GitHub Stats <span role="img" aria-label="chart with upwards trend" title="chart with upwards trend">:chart_with_upwards_trend:</span>
 <p align="center">   
     <!-- GitHub stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=geospatialem&count_private=true&show_icons=true&hide_rank=true&theme=synthwave&custom_title=Kitty's%20Stats&hide_border=true" alt="Kitty's Stats" title="Kitty's Stats" /><code>&nbsp;</code>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=geospatialem&count_private=true&show_icons=true&hide_rank=true&theme=synthwave&custom_title=Kitty's%20Stats&hide_border=true" alt="Kitty's Stats" title="Kitty's Stats" />&nbsp;
     <!-- Languages -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geospatialem&theme=synthwave&langs_count=6&layout=compact&custom_title=Kitty's%20Languages&hide_border=true" alt="Kitty's Languages" title="Kitty's Languages">
 </p>
